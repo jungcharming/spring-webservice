@@ -1,4 +1,4 @@
-package com.jungcharming.springwebservice;
+package com.jungcharming.webservice;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
